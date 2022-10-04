@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:c1_sjv/widgets/GamesCards.dart';
 
 class TabTurismo extends StatelessWidget {
   TabTurismo({Key? key}) : super(key: key);
